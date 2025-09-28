@@ -1,0 +1,13 @@
+{
+  "success": true,
+  "metrics": {
+    "accuracy": 0.9275,
+    "precision": 0.9275106877671943,
+    "recall": 0.9275,
+    "f1_score": 0.9274995468721678
+  },
+  "meets_quality_gate": true,
+  "model_path": "models\\model.pkl",
+  "scaler_path": "models\\scaler.pkl",
+  "timestamp": "2025-09-28T04:25:48.677063+00:00"
+}
